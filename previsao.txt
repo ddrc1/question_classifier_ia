@@ -1,0 +1,8 @@
+Precisão obtida: 82.3%
+Intervalo de confiança: 72,5% a 89,5%
+
+Foi utilizado o arquivo previsão para obter os resultados.
+Os dados de referência foram adquiridos utilizando o modelo gpt-6.1-sol com o mesmo fluxo, utilizando apenas 80 questões selecionadas aleatoriamente.
+Foram considerados válidos nesse cálculo, valores de confiança maior ou igual a 0.85.
+
+Cobertura (fração das questões publicadas): 278/360 = 77,2%

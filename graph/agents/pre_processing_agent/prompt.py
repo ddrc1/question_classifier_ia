@@ -1,0 +1,2 @@
+prompt: str = """Você trabalha com extração de HTML em texto. 
+Você tem a tarefa de remover código HTML de questões e reescrevê-las em texto limpo mantendo enunciado, comando e alternativas da questão intactos"""

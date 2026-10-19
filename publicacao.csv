@@ -1,0 +1,360 @@
+id,decisao,tema_central_id,extras_ids,confianca,motivo
+Q0001,publicar,5465,5524,0.99,
+Q0002,publicar,4365,4377,0.9702,
+Q0003,revisar,5465,,0.9702,"A classificação desse assunto possui diferentes partes (Recursos em Espécies (Parte 3), Recursos em Espécies). Verificar qual é a correta."
+Q0004,revisar,5465,,0.9801,"A classificação desse assunto possui diferentes partes (Competência (Parte 1), Competência (Parte 2), Competência). Verificar qual é a correta."
+Q0005,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Teoria da Pena (Parte 1), Teoria da Pena (Parte 2), Teoria da Pena). Verificar qual é a correta."
+Q0006,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra o Patrimônio (Parte 1), Dos Crimes contra o Patrimônio (Parte 2), Dos Crimes Contra o Patrimônio). Verificar qual é a correta."
+Q0007,publicar,5062,5063,0.9801,
+Q0008,revisar,5062,,0.9603999999999999,"A classificação desse assunto possui diferentes partes (Teoria da Pena (Parte 1), Teoria da Pena (Parte 2), Teoria da Pena). Verificar qual é a correta."
+Q0009,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra o Patrimônio (Parte 1), Dos Crimes contra o Patrimônio (Parte 2), Dos Crimes Contra o Patrimônio). Verificar qual é a correta."
+Q0010,publicar,4683,4688,0.99,
+Q0011,publicar,4683,4702,0.9702,
+Q0012,publicar,5465,5539,0.9602999999999999,
+Q0013,revisar,5465,,0.9801,"A classificação desse assunto possui diferentes partes (Competência (Parte 1), Competência (Parte 2), Competência). Verificar qual é a correta."
+Q0014,publicar,5465,5476,0.9211999999999999,
+Q0015,publicar,5465,5498,0.9801,
+Q0016,publicar,5465,5517,0.9503999999999999,
+Q0017,revisar,5465,,0.9207000000000001,"A questão trata do procedimento especial dos crimes de responsabilidade dos funcionários públicos, especialmente da resposta preliminar prevista no art. 514 do CPP. Esse procedimento especial não possui categoria própria entre as opções; embora se aproxime de Procedimento Ordinário, a classificação não é exata."
+Q0018,publicar,4683,4701,0.9602999999999999,
+Q0019,publicar,5465,5466,0.9602999999999999,
+Q0020,revisar,5062,,0.7722,"A questão reúne cinco posições jurisprudenciais distintas, sem predominância temática clara: concurso de crimes no ECA, dosimetria da pena, falsa identidade, furto noturno e institutos despenalizadores como transação penal e suspensão condicional do processo."
+Q0021,publicar,5465,5583,0.8316,
+Q0022,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra a Administração Pública (Parte 1), Dos Crimes contra a Administração Pública (Parte 2), Dos Crimes Contra a Administração Pública). Verificar qual é a correta."
+Q0023,publicar,5465,5524,0.9801,
+Q0024,publicar,4365,4385,0.9801,
+Q0025,revisar,5062,,0.9702,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra a Administração Pública (Parte 1), Dos Crimes contra a Administração Pública (Parte 2), Dos Crimes Contra a Administração Pública). Verificar qual é a correta."
+Q0026,publicar,4683,4704,0.9801,
+Q0027,publicar,5465,5487,0.9702,
+Q0028,publicar,5465,5524,0.9801,
+Q0029,publicar,4683,4684,0.99,
+Q0030,publicar,5062,5134,0.9801,
+Q0031,publicar,4365,4385,0.99,
+Q0032,publicar,5465,5490,0.9702,
+Q0033,publicar,5465,5517,0.9801,
+Q0034,publicar,5465,5476,0.9702,
+Q0035,publicar,4683,4706,0.99,
+Q0036,publicar,4683,4704,0.9306,
+Q0037,publicar,5062,5116,0.9503999999999999,
+Q0038,publicar,5465,5583,0.9702,
+Q0039,fora,4683,,0.9306,"A questão trata de cartel e fixação artificial de preços, conduta enquadrada como crime contra a ordem econômica, previsto na Lei nº 8.137/1990. Embora próximo dos crimes contra a economia popular, trata-se de categoria juridicamente distinta e não há, entre as opções, a classificação específica para crimes contra a ordem econômica."
+Q0040,revisar,5465,,0.9702,"A classificação desse assunto possui diferentes partes (Recursos em Espécies (Parte 3), Recursos em Espécies). Verificar qual é a correta."
+Q0041,publicar,5062,5184,0.98,
+Q0042,publicar,5062,5218,0.9801,
+Q0043,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Teoria da Pena (Parte 1), Teoria da Pena (Parte 2), Teoria da Pena). Verificar qual é a correta."
+Q0044,publicar,5465,5487,0.9702,
+Q0045,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra a Administração Pública (Parte 1), Dos Crimes contra a Administração Pública (Parte 2), Dos Crimes Contra a Administração Pública). Verificar qual é a correta."
+Q0046,publicar,5465,5509,0.9801,
+Q0047,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra o Patrimônio (Parte 1), Dos Crimes contra o Patrimônio (Parte 2), Dos Crimes Contra o Patrimônio). Verificar qual é a correta."
+Q0048,publicar,5062,5191,0.6256,
+Q0049,publicar,5062,5149,0.9702,
+Q0050,publicar,4683,4708,0.9801,
+Q0051,publicar,5062,5180,0.9801,
+Q0052,publicar,4683,4703,0.9801,
+Q0053,publicar,4683,4701,0.9503999999999999,
+Q0054,publicar,5062,5170,0.9503999999999999,
+Q0055,publicar,5465,6735,0.9801,
+Q0056,publicar,5062,5066,0.9801,
+Q0057,publicar,5062,5175,0.99,
+Q0058,publicar,4365,4377,0.9602999999999999,
+Q0059,publicar,4365,4385,0.8623999999999999,
+Q0060,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra a Administração Pública (Parte 1), Dos Crimes contra a Administração Pública (Parte 2), Dos Crimes Contra a Administração Pública). Verificar qual é a correta."
+Q0061,publicar,4683,4703,0.9801,
+Q0062,publicar,5062,5180,0.9801,
+Q0063,publicar,4683,4704,0.99,
+Q0064,publicar,4683,4695,0.9503999999999999,
+Q0065,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra o Patrimônio (Parte 1), Dos Crimes contra o Patrimônio (Parte 2), Dos Crimes Contra o Patrimônio). Verificar qual é a correta."
+Q0066,publicar,4365,4371,0.9801,
+Q0067,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra a Administração Pública (Parte 1), Dos Crimes contra a Administração Pública (Parte 2), Dos Crimes Contra a Administração Pública). Verificar qual é a correta."
+Q0068,publicar,5062,5102,0.8316,
+Q0069,publicar,5062,5170,0.9801,
+Q0070,publicar,4683,4703,0.9702,
+Q0071,publicar,4683,4688,0.9801,
+Q0072,publicar,5465,5590,0.9702,
+Q0073,revisar,5062,,0.9503999999999999,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra a Administração Pública (Parte 1), Dos Crimes contra a Administração Pública (Parte 2), Dos Crimes Contra a Administração Pública). Verificar qual é a correta."
+Q0074,publicar,5062,5180,0.9506,
+Q0075,publicar,5062,5191,0.9801,
+Q0076,publicar,4365,4371,0.99,
+Q0077,publicar,5062,5170,0.9211999999999999,
+Q0078,publicar,4683,4697,0.9801,
+Q0079,publicar,5465,5580,0.9801,
+Q0080,publicar,4365,4368,0.9405,
+Q0081,publicar,4365,4371,1.0,
+Q0082,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra a Administração Pública (Parte 1), Dos Crimes contra a Administração Pública (Parte 2), Dos Crimes Contra a Administração Pública). Verificar qual é a correta."
+Q0083,publicar,5062,5149,0.9702,
+Q0084,publicar,4683,4704,0.9801,
+Q0085,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra a Administração Pública (Parte 1), Dos Crimes contra a Administração Pública (Parte 2), Dos Crimes Contra a Administração Pública). Verificar qual é a correta."
+Q0086,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra a Administração Pública (Parte 1), Dos Crimes contra a Administração Pública (Parte 2), Dos Crimes Contra a Administração Pública). Verificar qual é a correta."
+Q0087,publicar,4683,4703,0.9801,
+Q0088,publicar,4365,4389,0.9702,
+Q0089,publicar,5062,5218,0.9801,
+Q0090,publicar,5465,5539,0.891,
+Q0091,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Teoria da Pena (Parte 1), Teoria da Pena (Parte 2), Teoria da Pena). Verificar qual é a correta."
+Q0092,publicar,5465,5509,0.99,
+Q0093,publicar,5062,5149,0.9702,
+Q0094,publicar,4365,4385,0.9702,
+Q0095,publicar,5062,5191,0.9702,
+Q0096,revisar,5465,,0.9801,"A classificação desse assunto possui diferentes partes (Competência (Parte 1), Competência (Parte 2), Competência). Verificar qual é a correta."
+Q0097,publicar,4683,4708,0.9207000000000001,
+Q0098,publicar,5465,6735,0.9801,
+Q0099,revisar,5062,,0.9702,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra a Administração Pública (Parte 1), Dos Crimes contra a Administração Pública (Parte 2), Dos Crimes Contra a Administração Pública). Verificar qual é a correta."
+Q0100,publicar,5062,5102,0.9801,
+Q0101,publicar,4683,4704,0.99,
+Q0102,revisar,5465,,0.9801,"A classificação desse assunto possui diferentes partes (Sentença Penal (Parte 1), Sentença Penal (Parte 2), Sentença Penal). Verificar qual é a correta."
+Q0103,publicar,5465,5476,0.9801,
+Q0104,publicar,5465,5498,0.9801,
+Q0105,publicar,4365,4385,0.9602999999999999,
+Q0106,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra o Patrimônio (Parte 1), Dos Crimes contra o Patrimônio (Parte 2), Dos Crimes Contra o Patrimônio). Verificar qual é a correta."
+Q0107,publicar,5062,5116,0.9801,
+Q0108,revisar,5465,,0.9801,"A classificação desse assunto possui diferentes partes (Recursos em Espécies (Parte 3), Recursos em Espécies). Verificar qual é a correta."
+Q0109,publicar,4683,4708,0.9801,
+Q0110,revisar,5465,,0.9801,"A classificação desse assunto possui diferentes partes (Competência (Parte 1), Competência (Parte 2), Competência). Verificar qual é a correta."
+Q0111,publicar,4365,4371,0.9801,
+Q0112,publicar,4683,4705,0.99,
+Q0113,publicar,4683,4695,0.7020000000000001,
+Q0114,publicar,5465,5505,0.8928,
+Q0115,publicar,4365,4385,0.9602999999999999,
+Q0116,publicar,4683,4708,0.9801,
+Q0117,revisar,5062,,0.9503999999999999,"A classificação desse assunto possui diferentes partes (Teoria da Pena (Parte 1), Teoria da Pena (Parte 2), Teoria da Pena). Verificar qual é a correta."
+Q0118,publicar,5465,5505,0.9801,
+Q0119,publicar,5062,5180,0.9801,
+Q0120,publicar,5465,5590,0.9602999999999999,
+Q0121,publicar,5465,5466,0.9801,
+Q0122,publicar,4683,4703,0.9702,
+Q0123,publicar,4365,4377,0.9306,
+Q0124,revisar,5062,,0.99,"A classificação desse assunto possui diferentes partes (Teoria da Pena (Parte 1), Teoria da Pena (Parte 2), Teoria da Pena). Verificar qual é a correta."
+Q0125,publicar,4683,4708,0.9602999999999999,
+Q0126,publicar,5062,5180,0.9405,
+Q0127,publicar,5465,5580,0.9702,
+Q0128,publicar,5465,5466,0.9211999999999999,
+Q0129,publicar,5465,6735,0.9801,
+Q0130,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra o Patrimônio (Parte 1), Dos Crimes contra o Patrimônio (Parte 2), Dos Crimes Contra o Patrimônio). Verificar qual é a correta."
+Q0131,publicar,5062,5071,0.9801,
+Q0132,publicar,5465,5583,0.5642999999999999,
+Q0133,publicar,5465,5524,0.9801,
+Q0134,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra a Administração Pública (Parte 1), Dos Crimes contra a Administração Pública (Parte 2), Dos Crimes Contra a Administração Pública). Verificar qual é a correta."
+Q0135,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra o Patrimônio (Parte 1), Dos Crimes contra o Patrimônio (Parte 2), Dos Crimes Contra o Patrimônio). Verificar qual é a correta."
+Q0136,publicar,4683,4704,0.9801,
+Q0137,fora,4683,,0.9408,"A questão trata das disposições da Lei nº 12.830/2013 sobre a investigação criminal conduzida pelo delegado de polícia, especialmente indiciamento, carreira, condução do inquérito e avocação. Esse tema não corresponde especificamente a nenhuma das categorias disponíveis."
+Q0138,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Teoria da Pena (Parte 1), Teoria da Pena (Parte 2), Teoria da Pena). Verificar qual é a correta."
+Q0139,publicar,5062,5211,0.9702,
+Q0140,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra o Patrimônio (Parte 1), Dos Crimes contra o Patrimônio (Parte 2), Dos Crimes Contra o Patrimônio). Verificar qual é a correta."
+Q0141,publicar,4365,4385,0.9801,
+Q0142,fora,4683,,0.1782,"A questão trata de isenção do ITCD, um imposto estadual, e de legislação tributária, sem abordar crimes tributários ou qualquer dos demais temas de legislação penal especial listados."
+Q0143,publicar,5465,5505,0.9801,
+Q0144,publicar,5465,5524,0.9702,
+Q0145,publicar,4683,4702,0.9801,
+Q0146,publicar,5465,5590,0.9503999999999999,
+Q0147,publicar,5465,5498,0.9207000000000001,
+Q0148,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Teoria da Pena (Parte 1), Teoria da Pena (Parte 2), Teoria da Pena). Verificar qual é a correta."
+Q0149,publicar,5465,5498,0.9603999999999999,
+Q0150,publicar,4683,4708,0.99,
+Q0151,publicar,5465,5517,0.9602999999999999,
+Q0152,publicar,5465,5466,0.9801,
+Q0153,publicar,5062,5218,0.9702,
+Q0154,fora,4683,,0.9702,"A questão trata do crime previsto na Lei nº 9.029/1995, que proíbe práticas discriminatórias nas relações de trabalho, especialmente a exigência de teste, exame, perícia, laudo ou declaração relativos à esterilização ou ao estado de gravidez. Esse tema não se enquadra especificamente nas categorias listadas, como crimes de racismo ou crimes contra a organização do trabalho."
+Q0155,publicar,4683,4703,0.9801,
+Q0156,publicar,4683,4688,0.9801,
+Q0157,publicar,4683,4693,0.9801,
+Q0158,publicar,4683,4707,0.99,
+Q0159,revisar,5062,,0.6435,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra o Patrimônio (Parte 1), Dos Crimes contra o Patrimônio (Parte 2), Dos Crimes Contra o Patrimônio). Verificar qual é a correta."
+Q0160,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Teoria da Pena (Parte 1), Teoria da Pena (Parte 2), Teoria da Pena). Verificar qual é a correta."
+Q0161,publicar,5465,5517,0.9702,
+Q0162,publicar,4365,4380,0.99,
+Q0163,publicar,4683,4684,0.9408,
+Q0164,publicar,4683,4703,0.99,
+Q0165,publicar,4683,4705,0.9801,
+Q0166,publicar,4683,4703,0.9702,
+Q0167,publicar,5465,5524,0.9801,
+Q0168,fora,4683,,0.9801,"A questão trata dos crimes previstos na Lei Geral do Esporte (Lei nº 14.597/2023), especificamente corrupção privada no esporte e crimes contra a incerteza do resultado esportivo. Esse tema não corresponde a nenhuma das categorias disponibilizadas."
+Q0169,publicar,5465,5583,0.9801,
+Q0170,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Teoria da Pena (Parte 1), Teoria da Pena (Parte 2), Teoria da Pena). Verificar qual é a correta."
+Q0171,publicar,4683,4693,0.9211999999999999,
+Q0172,publicar,5465,5466,0.8118,
+Q0173,publicar,4683,4703,0.9801,
+Q0174,fora,4683,,0.8526,"A questão trata majoritariamente de crimes cibernéticos ou informáticos, especialmente invasão de dispositivo informático, divulgação de material pornográfico infantil na internet e fraude eletrônica. Esse tema não corresponde especificamente a nenhuma das classificações disponíveis. Embora haja referência ao ECA e à proteção de crianças e adolescentes, o foco central é a criminalidade informática."
+Q0175,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra a Administração Pública (Parte 1), Dos Crimes contra a Administração Pública (Parte 2), Dos Crimes Contra a Administração Pública). Verificar qual é a correta."
+Q0176,publicar,5062,5079,0.9702,
+Q0177,publicar,5465,6735,0.9702,
+Q0178,publicar,4683,4697,0.9801,
+Q0179,publicar,4365,4374,0.9503999999999999,
+Q0180,publicar,5465,6735,0.9702,
+Q0181,publicar,4683,4695,0.9801,
+Q0182,publicar,5062,5138,0.9503999999999999,
+Q0183,revisar,5465,,0.9702,"A classificação desse assunto possui diferentes partes (Recursos em Espécies (Parte 3), Recursos em Espécies). Verificar qual é a correta."
+Q0184,publicar,4683,4708,0.9801,
+Q0185,publicar,4683,4703,0.9702,
+Q0186,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Teoria da Pena (Parte 1), Teoria da Pena (Parte 2), Teoria da Pena). Verificar qual é a correta."
+Q0187,revisar,5062,,0.9602999999999999,"A classificação desse assunto possui diferentes partes (Teoria da Pena (Parte 1), Teoria da Pena (Parte 2), Teoria da Pena). Verificar qual é a correta."
+Q0188,publicar,5062,5228,0.9801,
+Q0189,publicar,5465,5466,0.9801,
+Q0190,publicar,4683,4701,0.99,
+Q0191,revisar,5465,,0.9801,"A classificação desse assunto possui diferentes partes (Recursos em Espécies (Parte 3), Recursos em Espécies). Verificar qual é a correta."
+Q0192,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra a Administração Pública (Parte 1), Dos Crimes contra a Administração Pública (Parte 2), Dos Crimes Contra a Administração Pública). Verificar qual é a correta."
+Q0193,publicar,4683,4705,0.9801,
+Q0194,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra a Administração Pública (Parte 1), Dos Crimes contra a Administração Pública (Parte 2), Dos Crimes Contra a Administração Pública). Verificar qual é a correta."
+Q0195,publicar,4365,4371,0.9801,
+Q0196,publicar,4365,4385,0.9801,
+Q0197,publicar,5465,5498,0.9702,
+Q0198,publicar,5062,5071,0.9801,
+Q0199,publicar,5062,5218,0.891,
+Q0200,publicar,4683,4705,0.99,
+Q0201,publicar,5062,5102,0.9801,
+Q0202,publicar,5062,5102,0.9801,
+Q0203,publicar,4683,4702,0.9801,
+Q0204,publicar,5465,5505,0.99,
+Q0205,publicar,5465,5512,0.9702,
+Q0206,publicar,5465,5466,0.9702,
+Q0207,publicar,4683,4703,0.9801,
+Q0208,publicar,5062,5071,0.9702,
+Q0209,publicar,5465,5498,0.9405,
+Q0210,publicar,4683,4697,0.99,
+Q0211,publicar,5465,5583,0.8613,
+Q0212,publicar,5465,5487,0.9801,
+Q0213,publicar,4683,4708,0.98,
+Q0214,publicar,5465,5490,0.9801,
+Q0215,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Teoria da Pena (Parte 1), Teoria da Pena (Parte 2), Teoria da Pena). Verificar qual é a correta."
+Q0216,publicar,4683,4701,0.86,
+Q0217,publicar,4365,4371,0.9016000000000001,
+Q0218,publicar,5465,5517,0.9801,
+Q0219,publicar,5062,5071,0.9408,
+Q0220,publicar,5465,5498,0.9702,
+Q0221,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Teoria da Pena (Parte 1), Teoria da Pena (Parte 2), Teoria da Pena). Verificar qual é a correta."
+Q0222,publicar,5062,5170,0.9702,
+Q0223,publicar,4683,4703,0.9016000000000001,
+Q0224,revisar,5062,,0.9702,"A classificação desse assunto possui diferentes partes (Teoria da Pena (Parte 1), Teoria da Pena (Parte 2), Teoria da Pena). Verificar qual é a correta."
+Q0225,publicar,5465,5476,0.9702,
+Q0226,publicar,5465,6735,0.9702,
+Q0227,publicar,5062,5102,0.9801,
+Q0228,publicar,5465,6734,0.9306,
+Q0229,publicar,5465,5517,0.9306,
+Q0230,publicar,5062,5211,0.9602999999999999,
+Q0231,publicar,5062,5218,0.9702,
+Q0232,publicar,5062,5079,0.9801,
+Q0233,publicar,5062,5175,0.9801,
+Q0234,publicar,4365,4380,0.9702,
+Q0235,revisar,5465,,0.9702,"A classificação desse assunto possui diferentes partes (Recursos em Espécies (Parte 3), Recursos em Espécies). Verificar qual é a correta."
+Q0236,publicar,5465,5490,0.6732,
+Q0237,publicar,5062,5175,0.9801,
+Q0238,publicar,5465,5517,0.9801,
+Q0239,revisar,5062,,0.9207000000000001,"A classificação desse assunto possui diferentes partes (Teoria da Pena (Parte 1), Teoria da Pena (Parte 2), Teoria da Pena). Verificar qual é a correta."
+Q0240,publicar,5465,5498,0.9801,
+Q0241,publicar,5062,5218,0.9801,
+Q0242,revisar,5465,,0.9801,"A classificação desse assunto possui diferentes partes (Recursos em Espécies (Parte 3), Recursos em Espécies). Verificar qual é a correta."
+Q0243,publicar,5062,5175,0.9801,
+Q0244,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra a Administração Pública (Parte 1), Dos Crimes contra a Administração Pública (Parte 2), Dos Crimes Contra a Administração Pública). Verificar qual é a correta."
+Q0245,fora,4683,,0.8148,"A questão trata majoritariamente de prescrição penal, instituto geral do Direito Penal, com referências acessórias à Lei de Falências e à Lei de Drogas. Não há, entre as opções, uma categoria específica para prescrição penal geral ou crimes falimentares; portanto, não se enquadra adequadamente nos temas listados."
+Q0246,publicar,5465,5524,0.9801,
+Q0247,publicar,5465,5466,0.9114,
+Q0248,fora,4683,,0.9801,"A questão trata de crimes contra a Administração Pública previstos no Código Penal, especificamente desobediência, resistência, corrupção passiva, corrupção ativa e concussão. Esse tema não corresponde a nenhuma das categorias de legislação penal especial listadas."
+Q0249,publicar,5465,5583,0.9306,
+Q0250,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Teoria da Pena (Parte 1), Teoria da Pena (Parte 2), Teoria da Pena). Verificar qual é a correta."
+Q0251,publicar,5062,5191,0.9801,
+Q0252,publicar,5465,6734,0.9603999999999999,
+Q0253,publicar,4365,4371,0.9702,
+Q0254,publicar,4683,4704,0.99,
+Q0255,publicar,5062,5211,0.9801,
+Q0256,publicar,5062,5211,0.9702,
+Q0257,publicar,5062,5218,0.9602999999999999,
+Q0258,publicar,5465,6735,0.9702,
+Q0259,publicar,5062,5170,0.9702,
+Q0260,publicar,4365,4368,0.9023999999999999,
+Q0261,fora,4683,,0.9702,"A questão trata de proteção da propriedade intelectual de programa de computador, regida pela Lei nº 9.609/1998. Esse tema não corresponde especificamente a nenhuma das classificações disponíveis."
+Q0262,publicar,4683,4703,0.9702,
+Q0263,publicar,5465,5583,0.9602999999999999,
+Q0264,publicar,5062,5102,0.9801,
+Q0265,publicar,5062,5185,0.9801,
+Q0266,revisar,5465,,0.9801,"A classificação desse assunto possui diferentes partes (Competência (Parte 1), Competência (Parte 2), Competência). Verificar qual é a correta."
+Q0267,publicar,4683,4708,0.99,
+Q0268,publicar,5062,5116,0.9506,
+Q0269,publicar,5062,5170,0.9603999999999999,
+Q0270,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra a Administração Pública (Parte 1), Dos Crimes contra a Administração Pública (Parte 2), Dos Crimes Contra a Administração Pública). Verificar qual é a correta."
+Q0271,publicar,5465,5512,0.891,
+Q0272,publicar,4683,4703,0.9602999999999999,
+Q0273,revisar,5062,,0.9702,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra a Administração Pública (Parte 1), Dos Crimes contra a Administração Pública (Parte 2), Dos Crimes Contra a Administração Pública). Verificar qual é a correta."
+Q0274,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra o Patrimônio (Parte 1), Dos Crimes contra o Patrimônio (Parte 2), Dos Crimes Contra o Patrimônio). Verificar qual é a correta."
+Q0275,publicar,4683,4701,0.9801,
+Q0276,publicar,5465,5543,0.9702,
+Q0277,publicar,4683,4696,0.9801,
+Q0278,publicar,5465,5539,0.9603999999999999,
+Q0279,publicar,5062,5185,0.9801,
+Q0280,publicar,5465,5466,0.9603999999999999,
+Q0281,publicar,5465,6735,0.9603999999999999,
+Q0282,publicar,4683,4704,0.9801,
+Q0283,publicar,5465,5490,0.9801,
+Q0284,publicar,5062,5228,0.9503999999999999,
+Q0285,publicar,5062,5170,0.9702,
+Q0286,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Teoria da Pena (Parte 1), Teoria da Pena (Parte 2), Teoria da Pena). Verificar qual é a correta."
+Q0287,publicar,5062,5228,0.99,
+Q0288,revisar,4683,,0.8513999999999999,"A questão reúne proposições de temas distintos: estupro e concurso formal do Código Penal, crimes tributários, crimes ambientais e crimes de responsabilidade de prefeitos e vereadores. Não há um assunto majoritário suficientemente definido entre as categorias disponíveis."
+Q0289,publicar,5465,5490,0.8036,
+Q0290,publicar,4683,4701,0.9602999999999999,
+Q0291,publicar,4683,4708,0.99,
+Q0292,publicar,4365,4374,0.9801,
+Q0293,publicar,5062,5185,0.9801,
+Q0294,publicar,5062,5211,0.9801,
+Q0295,publicar,5465,5487,0.9801,
+Q0296,publicar,5465,5466,0.9801,
+Q0297,publicar,4683,4695,0.9801,
+Q0298,publicar,4683,4694,0.9207000000000001,
+Q0299,publicar,4365,4385,0.9405,
+Q0300,publicar,5062,5079,0.9702,
+Q0301,publicar,5062,5191,0.8644999999999999,
+Q0302,publicar,5062,5218,0.9702,
+Q0303,publicar,5062,5180,0.9801,
+Q0304,revisar,5465,,0.9506,"A classificação desse assunto possui diferentes partes (Competência (Parte 1), Competência (Parte 2), Competência). Verificar qual é a correta."
+Q0305,publicar,5465,5466,0.9801,
+Q0306,publicar,5062,5144,0.9801,
+Q0307,publicar,4683,4707,0.99,
+Q0308,publicar,5465,5498,0.9702,
+Q0309,publicar,4683,4688,0.99,
+Q0310,publicar,5465,5505,0.9801,
+Q0311,publicar,5465,5487,0.9801,
+Q0312,publicar,4365,4384,0.9405,
+Q0313,revisar,5062,,0.9603999999999999,"A classificação desse assunto possui diferentes partes (Teoria da Pena (Parte 1), Teoria da Pena (Parte 2), Teoria da Pena). Verificar qual é a correta."
+Q0314,publicar,5465,5476,0.9801,
+Q0315,publicar,5062,5185,0.9801,
+Q0316,publicar,5062,5218,0.9306,
+Q0317,publicar,5465,5466,0.9801,
+Q0318,publicar,5062,5175,0.9801,
+Q0319,publicar,5062,5071,0.9801,
+Q0320,publicar,5465,6735,0.9702,
+Q0321,publicar,5062,5071,0.9602999999999999,
+Q0322,revisar,5465,,0.9801,"A classificação desse assunto possui diferentes partes (Recursos em Espécies (Parte 3), Recursos em Espécies). Verificar qual é a correta."
+Q0323,publicar,5465,5590,0.9405,
+Q0324,revisar,5062,,0.6144,"A classificação desse assunto possui diferentes partes (Teoria da Pena (Parte 1), Teoria da Pena (Parte 2), Teoria da Pena). Verificar qual é a correta."
+Q0325,publicar,5465,5466,0.9311999999999999,
+Q0326,publicar,4683,4708,0.9801,
+Q0327,revisar,5062,,0.9801,"A classificação desse assunto possui diferentes partes (Teoria da Pena (Parte 1), Teoria da Pena (Parte 2), Teoria da Pena). Verificar qual é a correta."
+Q0328,publicar,4365,4380,0.9702,
+Q0329,publicar,4683,4705,0.9603999999999999,
+Q0330,publicar,5465,5498,0.9702,
+Q0331,publicar,5465,5476,0.9801,
+Q0332,publicar,4683,4701,0.9801,
+Q0333,publicar,4365,4371,0.9503999999999999,
+Q0334,publicar,4365,4380,0.9801,
+Q0335,publicar,5062,5218,0.9503999999999999,
+Q0336,revisar,5062,,0.99,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra o Patrimônio (Parte 1), Dos Crimes contra o Patrimônio (Parte 2), Dos Crimes Contra o Patrimônio). Verificar qual é a correta."
+Q0337,publicar,4683,4684,0.99,
+Q0338,publicar,5465,5590,0.9602999999999999,
+Q0339,revisar,5465,,0.7722,"A classificação desse assunto possui diferentes partes (Sentença Penal (Parte 1), Sentença Penal (Parte 2), Sentença Penal). Verificar qual é a correta."
+Q0340,publicar,5062,5071,0.99,
+Q0341,revisar,5062,,0.99,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra o Patrimônio (Parte 1), Dos Crimes contra o Patrimônio (Parte 2), Dos Crimes Contra o Patrimônio). Verificar qual é a correta."
+Q0342,publicar,5465,6735,0.9801,
+Q0343,publicar,5465,5466,0.9702,
+Q0344,publicar,4683,4688,0.9801,
+Q0345,publicar,5062,5102,0.9801,
+Q0346,publicar,5465,5583,0.9801,
+Q0347,revisar,5062,,0.8118,"A classificação desse assunto possui diferentes partes (Teoria da Pena (Parte 1), Teoria da Pena (Parte 2), Teoria da Pena). Verificar qual é a correta."
+Q0348,revisar,5062,,0.9702,"A classificação desse assunto possui diferentes partes (Dos Crimes Contra a Administração Pública (Parte 1), Dos Crimes contra a Administração Pública (Parte 2), Dos Crimes Contra a Administração Pública). Verificar qual é a correta."
+Q0349,publicar,5062,5175,0.9503999999999999,
+Q0350,publicar,4683,4702,0.99,
+Q0351,publicar,5062,5116,0.9801,
+Q0352,publicar,5465,5512,0.9801,
+Q0353,publicar,5465,5530,0.891,
+Q0354,publicar,5062,5218,0.9503999999999999,
+Q0355,publicar,4683,4708,0.9801,
+Q0356,publicar,5062,5066,0.99,
+Q0357,publicar,5062,5134,0.9801,
+Q0358,fora,4683,,0.9801,"A questão trata dos crimes informáticos, especialmente da invasão de dispositivo informático prevista no art. 154-A do Código Penal (Lei nº 12.737/2012). Esse tema não corresponde especificamente a nenhuma das categorias disponíveis."
+Q0359,publicar,4683,4696,0.9801,
